@@ -2,9 +2,8 @@
 Star-Rail-Atlas是一个主要由[`米游社@听语惊花`](https://bbs.mihoyo.com/ys/accountCenter/postList?id=289918413)（而不是西风驿站）制作的星穹铁道(StarRail)游戏图鉴。
 
 ## 目录结构
-### 已经做好了的
-- [x] 光锥图鉴（更新至1.0，含68个光锥）
-- [x] 角色材料（包含已经实装的全部角色）
+- [x] 光锥图鉴（更新至1.1，含71个光锥）
+- [x] 角色材料（更新至1.1）
 - [x] 角色图鉴（包含已经实装的全部角色）
 
 - [x] 遗器图鉴（包含已经实装的全部遗器）
@@ -15,20 +14,20 @@ Star-Rail-Atlas是一个主要由[`米游社@听语惊花`](https://bbs.mihoyo.c
 
 本仓库仅为图片仓库，并非代码仓库。
 
-目前已通过Yunzai-Bot的Atlas插件上线使用。
+您可以通过以下项目直接使用本仓库的资源。
 
-如要使用，请安装[Atlas](https://github.com/Nwflower/atlas.git)后发送以下命令获取更新。
+| Bot(plugin)         | language | link                                                         |
+| ------------------- | -------- | ------------------------------------------------------------ |
+| Yunzai-Bot（Atlas） | Node.js  | [Atlas](https://github.com/Nwflower/atlas)                   |
+| LittlePaimon        | python   | [LittlePaimon](https://github.com/CMHopeSunshine/LittlePaimon) |
+| StarRailUID         | python   | [StarRailUID](https://github.com/qwerdvd/StarRailUID)        |
+| March7th            | python   | [Mar-7th](https://github.com/Mar-7th/March7th)               |
 
 您也可以自己另外写机器人进行适配。
 
-| 更新要求                     | 更新插件对应口令     | 更新星铁拓展包口令   |
-| ---------------------------- | -------------------- | -------------------- |
-| 更新，但是保留本地更改       | 图鉴插件升级         | 星铁图鉴升级         |
-| 更新且忽略暂存区修改         | 图鉴插件强制升级     | 星铁图鉴强制升级     |
-| 回退版本后再更新             | 图鉴插件强行升级     | 星铁图鉴强行升级     |
-| 放弃所有和远端仓库不同的文件 | 图鉴插件强行强制升级 | 星铁图鉴强行强制升级 |
+请注意，本仓库的开源协议为AGPL-3.0，使用本仓库时，请开源您的项目源码。
 
-### 支持
+## 支持
 
 如果你支持本项目，可以给个star或者[爱发电](https://afdian.net/a/Nwflower)，你的支持不会获得额外内容，但会提高本项目的更新积极性
 

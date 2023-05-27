@@ -29,6 +29,7 @@
   "material for role": {
     "三月七": "/material for role/三月七.png",
     "白露": "/material for role/白露.png",
+    "罗刹": "/material for role/罗刹.png",
     "桑博": "/material for role/桑博.png",
     "佩拉": "/material for role/佩拉.png",
     "物理开拓者": "/material for role/物理开拓者.png",
@@ -50,10 +51,12 @@
     "停云": "/material for role/停云.png",
     "希露瓦": "/material for role/希露瓦.png",
     "景元": "/material for role/景元.png",
+    "驭空": "/material for role/驭空.png",
     "瓦尔特": "/material for role/瓦尔特.png",
     "艾丝妲": "/material for role/艾丝妲.png"
   },
   "lightcone": {
+    "棺的回响": "/lightcone/棺的回响.png",
     "渊环": "/lightcone/渊环.png",
     "物穰": "/lightcone/物穰.png",
     "延长记号": "/lightcone/延长记号.png",
